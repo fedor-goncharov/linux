@@ -1,0 +1,5 @@
+insmod 1-2-test.ko
+
+lsmod 
+
+
