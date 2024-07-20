@@ -1,5 +1,6 @@
 #include <linux/init.h>
 #include <linux/kernel.h>
+#include <linux/module.h>
 /* TODO: add missing kernel headers */
 
 MODULE_DESCRIPTION("Error module");
